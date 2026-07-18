@@ -4332,7 +4332,7 @@ font-family:Arial,Helvetica,sans-serif;
       position:relative;
       z-index:1;
     ">
-      © COPYRIGHT 2026 | MADAMTOTO
+      © COPYRIGHT 2026 | MADAMTOTO x SEO Badjul Ijo
     </div>
 
   </div>
